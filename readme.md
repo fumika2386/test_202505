@@ -17,3 +17,18 @@
 すごい
 
 やばい
+
+## 開発の流れ
+
+1. developブランチを作る
+
+2. developブランチで作業する
+
+3. developブランチでコミットする
+
+4. developブランチをpushする
+
+5. developブランチからmain ブランチに　pull request する
+
+6. developブランチをmain ブランチに　mergeする
+
